@@ -1,0 +1,27 @@
+
+
+
+  body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 15px;
+            color: 5555;
+            text-align: center;
+         }
+
+    ol { text-align: left;
+
+    }
+    h1 {
+        color: black;
+    }
+    h2{
+        color: black;
+    }
+
+    .tableauPlaceholder {
+        text-align: center;
+    }
+
+    .homebg {
+        background-image: url(../assets/img/pastel-pink-background-yw0ub.jpg);
+    }
